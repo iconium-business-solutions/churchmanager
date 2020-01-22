@@ -1,0 +1,2 @@
+# churchmanager
+Church Management Software
